@@ -7,14 +7,12 @@
 
 ![](./img/ScreenShot.png)
 
-<<<<<<< HEAD
 =======
 ## Description
 
 - Project aims to create a real checkout page of e-commerce website.
 
 - https://morcicek.github.io/CheckoutProject_JS/
->>>>>>> ba5a1cc (second commit)
 
 ## Learning Outcomes
 
